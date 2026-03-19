@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-A browser-based habit tracker implemented as a single self-contained HTML file (`index.html`). No build tools, dependencies, or server required — just open in a browser. Design inspired by the Yetch Studio Every Day Goal Calendar — dark minimal aesthetic with amber/gold lit indicators.
+A browser-based habit tracker implemented as a single self-contained HTML file (`index.html`). No build tools, dependencies, or server required — just open in a browser. Design inspired by the Yetch Studio Every Day Goal Calendar — light warm cream aesthetic with amber/gold lit indicators.
 
 ## Architecture
 
